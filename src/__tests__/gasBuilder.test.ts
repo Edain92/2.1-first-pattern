@@ -1,4 +1,4 @@
-import { hello } from './index';
+import { hello } from '../gasBuilder';
 
 describe('Testing jest config', () => {
   test('Const must have hello value', () => {
