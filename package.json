@@ -1,5 +1,5 @@
 {
-  "name": "202305-sw-arch-initial-kata-group-222",
+  "name": "2.1-first-pattern",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agonsant/202305-sw-arch-initial-kata-group-222.git"
+    "url": "git+https://github.com/Edain92/2.1-first-pattern.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agonsant/202305-sw-arch-initial-kata-group-222/issues"
+    "url": "https://github.com/Edain92/2.1-first-pattern/issues"
   },
-  "homepage": "https://github.com/agonsant/202305-sw-arch-initial-kata-group-222#readme",
+  "homepage": "https://github.com/Edain92/2.1-first-pattern#readme",
   "devDependencies": {
     "@types/jest": "29.5.1",
     "@types/node": "18.16.3",
